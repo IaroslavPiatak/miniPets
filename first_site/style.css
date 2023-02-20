@@ -1,0 +1,38 @@
+.main_content
+{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1,h2,h3,h4
+{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+}
+
+h1
+{
+    font-size: 32px;
+}
+
+
+table,tr,td
+{
+    border: 1px solid black;
+    
+}
+
+figcaption
+{
+    font-style:italic;
+    text-align: center;
+}
+
+figure
+{
+    clear:right;
+    float:right;
+}
